@@ -2,7 +2,7 @@
 #include <string.h>
 #include <unistd.h>
 #include <stdio.h>
-#include "dm_exif.h"
+#include "exif.h"
 
 
 #define EXIF_LITTLE_ENDIAN		0

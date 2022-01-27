@@ -4,7 +4,7 @@
 #include <string.h>
 
 
-#include "dm_exif.h"
+#include "exif.h"
 
 
 int main(int argc, char *argv[])

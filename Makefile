@@ -1,4 +1,4 @@
-./test:./main.o ./dm_exif.o
+./test:./main.o ./exif.o
 	$(CC) -o./test $^
 
 %.o:%.c

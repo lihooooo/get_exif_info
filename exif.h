@@ -1,5 +1,5 @@
-#ifndef __DM_EXIF_H
-#define __DM_EXIF_H
+#ifndef __EXIF_H
+#define __EXIF_H
 
 
 #include <stdlib.h>
@@ -77,6 +77,6 @@ unsigned long long EXIF_GetCreateTime(char *pic_path);
 int EXIF_GetExifThumbnail(const char *pSrcPicPath, const char *pDstPicPath);
 
 
-#endif /*__DM_EXIF_H*/
+#endif /*__EXIF_H*/
 
 
